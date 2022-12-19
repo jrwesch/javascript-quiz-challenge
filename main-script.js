@@ -14,3 +14,21 @@ var timeRemaining = 76;
 var holdInterval = 0;
 var penalty = 10;
 
+// create timer and listen to button 
+timer.addEventListener("click", function () {
+    if (holdInterval === 0) {
+        holdInterval = setInterval(function () {
+            timeRemaining--;
+            currentTime.textContent = "Time Remaining: " + timeRemaining;
+
+            if (timeRemaining === 0) {
+                clearInterval(holdInterval);
+                allDone();
+                currentTime.textContent = "Pencils Down!";
+            }
+        }, 1000);
+    }
+    render(questionIndex);
+
+});
+
