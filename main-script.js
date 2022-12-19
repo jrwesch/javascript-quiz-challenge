@@ -13,3 +13,4 @@ var newUl = document.createElement("ul");
 var timeRemaining = 76;
 var holdInterval = 0;
 var penalty = 10;
+
