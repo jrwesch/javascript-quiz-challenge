@@ -194,7 +194,7 @@ createSubmit.addEventListener("click", function () {
         localStorage.setItem("allScores", newScore);
 
         // Sends to final page
-        window.location.replace("./HighScores.html");
+        window.location.replace("./scores.html");
     }
 });
 
