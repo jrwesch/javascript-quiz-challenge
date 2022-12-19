@@ -30,7 +30,7 @@ Screenshot of jrwesch password generator deployed on GitHub Pages
 This quiz is limited in scope. It only has five questions. One could create a larger test bank of questions to actually use for studying.
 
 # Links
-[Link to GitHub Repositorty for JavaScript Quiz App](https://github.com/jrwesch/javascript-quiz-challenge)
+[Link to GitHub Repositorty for JavaScript Quiz App](https://github.com/jrwesch/javascript-quiz-challenge)</br>
 [Link to GitHub Pages view of website](https://jrwesch.github.io/javascript-quiz-challenge/)
 
 # License
