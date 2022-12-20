@@ -25,6 +25,10 @@ THEN I can save my initials and my score</br>
 
 # Site Preview
 
+![Screenshots of quiz app deployed on GitHub Pages](./images/quiz-main-page.png)</br>
+![Screenshot of quiz app questions](./images/first-answer-reply.png)</br>
+![Screenshot of quiz app on GitHub Pages](./images/quiz-complete.png)</br>
+![Screenshot of quiz app leaderboard on GitHub Pages](./images/leaderboard.png)
 
 # Usage
 This quiz is limited in scope. It only has five questions. One could create a larger test bank of questions to actually use for studying.
