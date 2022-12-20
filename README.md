@@ -24,7 +24,7 @@ WHEN the game is over</br>
 THEN I can save my initials and my score</br>
 
 # Site Preview
-Screenshot of jrwesch password generator deployed on GitHub Pages
+
 
 # Usage
 This quiz is limited in scope. It only has five questions. One could create a larger test bank of questions to actually use for studying.
